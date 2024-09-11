@@ -1,3 +1,9 @@
-![GitHub stats](http://github-readme-stats.vercel.app/api?username=shii-ge&hide=issues,prs&hide_border=true&show_icons=true&count_private=true&include_all_commits=false&theme=dark&title_color=79ff97)
+# Hi!
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shii-ge&hide_border=true&layout=compact&langs_count=8&theme=dark&title_color=79ff97)
+### Statistics
+<div>
+    <a href="https://github.com/shii-ge">
+        <img src="https://github-readme-stats.vercel.app/api?username=shii-ge&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shii-ge&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
+    </a>
+</div>
